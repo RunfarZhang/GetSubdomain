@@ -1,0 +1,34 @@
+[-h0xm4n-] 2022/04/28 main.go:185: 1. 用户输入参数填充完毕！
+					( -u:  https://chaziyu.com/  )
+					( -t:  abc.com  )
+					( -s:    )
+					( -o:  default  )
+[-h0xm4n-] 2022/04/28 main.go:190: 2. url拼接完成！ url: https://chaziyu.com/abc.com
+[-h0xm4n-] 2022/04/28 main.go:195: 3. 响应获取成功！ 长度: 13088
+[-h0xm4n-] 2022/04/28 main.go:201: 4. 内容过滤成功！ 长度: 44
+[-h0xm4n-] 2022/04/28 main.go:216: 5. 结果保存在: ./20220428-out.txt
+[-h0xm4n-] 2022/04/28 main.go:217: 6. 结果保存成功！
+[-h0xm4n-] 2022/04/28 main.go:220: 完成！
+-----------------------------------------------------------------
+[-h0xm4n-] 2022/04/28 main.go:185: 1. 用户输入参数填充完毕！
+					( -u:  https://chaziyu.com/  )
+					( -t:  abc.com  )
+					( -s:    )
+					( -o:  nil  )
+[-h0xm4n-] 2022/04/28 main.go:190: 2. url拼接完成！ url: https://chaziyu.com/abc.com
+[-h0xm4n-] 2022/04/28 main.go:195: 3. 响应获取成功！ 长度: 13002
+[-h0xm4n-] 2022/04/28 main.go:201: 4. 内容过滤成功！ 长度: 44
+[-h0xm4n-] 2022/04/28 main.go:220: 完成！
+-----------------------------------------------------------------
+[-h0xm4n-] 2022/04/28 main.go:185: 1. 用户输入参数填充完毕！
+					( -u:  https://site.ip138.com/  )
+					( -t:  abc.com  )
+					( -s:  /domain.htm  )
+					( -o:  /home/kali/temp/get_sub_domain/test.txt  )
+[-h0xm4n-] 2022/04/28 main.go:190: 2. url拼接完成！ url: https://site.ip138.com/abc.com/domain.htm
+[-h0xm4n-] 2022/04/28 main.go:195: 3. 响应获取成功！ 长度: 15825
+[-h0xm4n-] 2022/04/28 main.go:201: 4. 内容过滤成功！ 长度: 44
+[-h0xm4n-] 2022/04/28 main.go:216: 5. 结果保存在: /home/kali/temp/get_sub_domain/test.txt
+[-h0xm4n-] 2022/04/28 main.go:217: 6. 结果保存成功！
+[-h0xm4n-] 2022/04/28 main.go:220: 完成！
+-----------------------------------------------------------------
