@@ -45,3 +45,6 @@ Usage of getsubdomain:
 ./get_sub_domain-linux -t "abc.com" -o "/home/kali/temp/get_sub_domain/test.txt"
 # 使用默认网址，查询"abc.com"，将结果保存到”/home/kali/temp/get_sub_domain/test.txt"
 ```
+
+# TODO
+* 使用代理IP池爬取
